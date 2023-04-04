@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.3.2
+Build-Jdk-Spec: 19
+Implementation-Title: deploy-2
+Implementation-Version: 0.0.6
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: co.develhope.deploy2.Deploy2Application
+Spring-Boot-Version: 2.6.5
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Spring-Boot-Layers-Index: WEB-INF/layers.idx
+
